@@ -1,4 +1,4 @@
-from primo import isprime
+from especiais.primo import isprime
 number = 600851475143
 
 for num in range(2, number):
